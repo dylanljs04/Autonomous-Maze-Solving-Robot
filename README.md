@@ -1,7 +1,7 @@
 # Autonomous-Maze-Solving-Robot
  
 ## Final Result
-Below is a video/link of the live demonstration of the robot autonomously solving a maze
+Below is a short video/link of the live demonstration of the robot autonomously solving a maze
 
 https://github.com/user-attachments/assets/cce7acbe-6295-4bbc-9338-e9e4782c1c5e
 
