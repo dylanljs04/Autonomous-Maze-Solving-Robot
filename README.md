@@ -6,7 +6,7 @@ This is a live demonstration of the robot autonomously solving a maze
 https://github.com/user-attachments/assets/cce7acbe-6295-4bbc-9338-e9e4782c1c5e
 
 ## Project Overview
-This project involves an autonomous robot designed to navigate and solve a maze. Built over two weeks, the robot incorporates a range of hardware and software components that work together to detect walls, make decisions, and traverse a maze efficiently. The project showcases an application of embedded systems, hardware interfacing, and algorithmic problem-solving.
+This project involves an autonomous robot designed to navigate and solve a maze. Built over two weeks in a team of 5, the robot incorporates a range of hardware and software components that work together to detect walls, make decisions, and traverse a maze efficiently. The project showcases an application of embedded systems, hardware interfacing, and algorithmic problem-solving.
 
 ## Components and Functionality
 ### 1. **Front Sensor System**
@@ -28,14 +28,6 @@ This project involves an autonomous robot designed to navigate and solve a maze.
 - **Role**: The "brain" of the robot.
 - **Functionality**: Processes data from the sensors and controls the motors based on the maze-solving logic.
 - **Features**: Takes inputs from the front sensor and side buttons and executes the logic to decide the robot's next move.
-
-## Technical Highlights
-- **Programming Language**: C (Arduino)
-- **Hardware Used**:
-  - Infrared sensor for front wall detection
-  - Push buttons for side wall detection
-  - H-Bridge motor driver circuit
-  - Arduino microcontroller
 
 
 ## Project Insights
